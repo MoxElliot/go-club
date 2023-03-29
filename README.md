@@ -1,3 +1,6 @@
+# create-react-app tailwind sass nextjs setup
+https://adebola-niran.medium.com/how-to-setup-tailwindcss-with-create-react-app-and-s-b7243607c3e7
+https://blog.logrocket.com/creating-website-next-js-react/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -6,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm start`  'npm run dev' <--nextjs
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
